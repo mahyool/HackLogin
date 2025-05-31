@@ -21,9 +21,8 @@ A neon-themed, animated login interface inspired by hacker aesthetics. Built ent
 
 
 ## 📸 Preview
+<img width="1697" alt="Screenshot 2025-06-01 at 1 45 46 AM" src="https://github.com/user-attachments/assets/7d1d7534-75b0-4181-9247-cdc5f5c0dba8" />
 
-> ![screenshot](path/to/screenshot.png)  
-*(Replace with actual hosted image or screenshot)*
 
 ## 🔧 How to Use
 
